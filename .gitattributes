@@ -1,1 +1,2 @@
 *.php lineguist=php
+*.js lineguist=php
