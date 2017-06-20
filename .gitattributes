@@ -1,2 +1,2 @@
-*.php lineguist=php
-*.js lineguist=php
+*.php linguist-language=php
+*.js linguist-language=php
