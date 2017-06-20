@@ -1,2 +1,4 @@
 # mall
-my first php application
+my first php project
+
+welcome to star~
