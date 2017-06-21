@@ -71,7 +71,7 @@ $pages = pages($total, $page, $page_size, 6);
             <li>
                 <img class="img-li-fix" src="<?php echo $v['pic']; ?>" alt="">
                 <div class="info">
-                    <a href=""><h3 class="img_title"><?php echo $v['name']; ?></h3></a>
+                    <a href="detail.php?id=<?php echo $v['id']; ?>"><h3 class="img_title"><?php echo $v['name']; ?></h3></a>
                     <p><?php echo $v['desc']; ?></p>
                     <div class="btn">
                         <a href="edit.php?id=<?php echo $v['id']; ?>" class="edit">编辑</a>
